@@ -1,8 +1,5 @@
-# job--hunting-auto
-使用手册
-下载并配置好playwright插件
+# 使用手册
 
-# 如何下载和配置Python Playwright插件
 
 ## 1. 安装Python
 
